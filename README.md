@@ -16,7 +16,7 @@ SSD: Gloway Yi.Pro 1TB
 
 Graphic: XFX RX6600
 
-WiFi: Intel AX201
+WiFi: Intel AX210
 
 [x] Air Drop
 
@@ -36,7 +36,7 @@ SSD: 光威弈 Pro 1TB
 
 显卡：讯景 RX6600
 
-无线网卡： Intel AX201
+无线网卡： Intel AX210
 
 [x] 隔空投送不可使用
 
